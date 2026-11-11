@@ -8,8 +8,8 @@ Proyecto de simulación interactiva desarrollado en Python con Pygame para la ma
 
 ## ⚙️ Cómo ejecutar el proyecto localmente:
 
-1. Abre tu terminal o línea de comandos en la carpeta del proyecto.
-2. Instala la librería Pygame ejecutando el siguiente comando:
+1. Abrir terminal o línea de comandos en la carpeta del proyecto.
+2. Instalar la librería Pygame ejecutando el siguiente comando:
    ```bash
    pip install pygame
 
